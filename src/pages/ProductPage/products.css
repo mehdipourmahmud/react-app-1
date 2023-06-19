@@ -1,0 +1,16 @@
+
+.products-style {
+  width: 100%;
+  height: 100vh;
+  background: url(../../assets/images/img-6.jpg) no-repeat center / cover fixed;
+  color:var(--primary);
+  font-size: 36px;
+  position: relative;
+}
+.products-style h1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
